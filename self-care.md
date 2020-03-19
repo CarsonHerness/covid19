@@ -7,10 +7,10 @@ permalink: /self-care/
 ## Routine
 First and foremost, set up a daily routine similar to your normal routine.
 
-# Work
+### Work
 
-# Exercise
+### Exercise
 
-# Diet
+### Diet
 
 ## Mental Health
