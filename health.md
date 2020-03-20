@@ -23,16 +23,17 @@ The WHO recommends that you regularly and thoroughly clean your hands with soap 
 * After touching garbage.
 
 ### 2. Maintain Social Distancing
-	The CDC recommends that you maintain at least a 6-foot distance between yourself and anyone who is coughing or sneezing in order to avoid potential transmission. In the same vein, the CDC also recommends avoiding public gatherings where this distance cannot be maintained, especially groups of large people.
+The CDC recommends that you maintain at least a 6-foot distance between yourself and anyone who is coughing or sneezing in order to avoid potential transmission. In the same vein, the CDC also recommends avoiding public gatherings where this distance cannot be maintained, especially groups of large people.
 
-	The lack of physical interaction can be a very challenging aspect of social distancing for many of us. It’s important to remember that in-person interaction is still possible, as long as proper social distancing is maintained! Otherwise, online platforms such as Google Hangouts or Facebook Messenger can be used to keep in close contact with your friends while maintaining CDC guidelines. 
+The lack of physical interaction can be a very challenging aspect of social distancing for many of us. It’s important to remember that in-person interaction is still possible, as long as proper social distancing is maintained! Otherwise, online platforms such as Google Hangouts or Facebook Messenger can be used to keep in close contact with your friends while maintaining CDC guidelines. 
+
 ### 3. Avoid touching eyes, nose and mouth
-	This is especially important because your hands can pick up viral particles from any surfaces they come in contact with, and viruses can more easily enter the body through your face! Because of this, it’s important to avoid touching your face, especially your eyes, nose, and mouth.
+This is especially important because your hands can pick up viral particles from any surfaces they come in contact with, and viruses can more easily enter the body through your face! Because of this, it’s important to avoid touching your face, especially your eyes, nose, and mouth.
+
 ### 4. Practice respiratory hygiene
-	By coughing and sneezing into one’s elbow or tissue that is immediately disposed of, one can prevent the spread of viruses through droplets.
+By coughing and sneezing into one’s elbow or tissue that is immediately disposed of, one can prevent the spread of viruses through droplets.
 
 #### Should I get a Face Mask?
-
 There’s been a lot of debate over whether face masks can help mitigate the spread of coronavirus. According to WHO, healthy people only need to wear a mask if they’re taking care of someone who may have coronavirus. However, if you are coughing or sneezing, you should wear a mask. 
 
 Additionally, if you do choose to wear a mask, it is important to do so properly, or the effects of the mask will be limited. Wash your hands before putting on a mask and regularly while wearing the mask, avoid touching the front of the mask while wearing it or taking it off (and wash your hands if you do so), replace the mask as soon as it is damp, and ensure that your mask is fully covering your mouth and nose without gaps. 
