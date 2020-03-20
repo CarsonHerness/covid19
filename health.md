@@ -21,6 +21,7 @@ The WHO recommends that you regularly and thoroughly clean your hands with soap 
 * After touching an animal, animal feed, or animal waste
 * After handling pet food or pet treats
 * After touching garbage.
+
 ### 2. Maintain Social Distancing
 	The CDC recommends that you maintain at least a 6-foot distance between yourself and anyone who is coughing or sneezing in order to avoid potential transmission. In the same vein, the CDC also recommends avoiding public gatherings where this distance cannot be maintained, especially groups of large people.
 

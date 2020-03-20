@@ -6,6 +6,8 @@ permalink: /work-from-home/
 
 How do you work and study from home, when many of the learning mechanisms we've developed at school depend on learning in person with professors and peers?
 
+This section focuses on doing work and school from home, so if you're looking for other online learning opportunities, check out [this page]({{ site.baseurl }}{% link education.md %}). 
+
 ## Getting Started
 Check out this [article](https://www.nytimes.com/2020/03/12/smarter-living/how-to-work-from-home-if-youve-never-done-it-before.html) from the New York Times on working from home, from a writer who has been working from home for years before the COVID-19 pandemic.
 
