@@ -40,6 +40,11 @@ Additionally, if you do choose to wear a mask, it is important to do so properly
 
 Finally, whether you choose to buy a mask or not, please do not panic buy large quantities of masks! It is unlikely that you will need masks in your daily life, and buying large quantities of masks for your own use may [prevent health workers](https://www.nbcconnecticut.com/news/national-international/panic-buying-of-face-masks-is-unwarranted-and-could-pose-risks-for-health-workers-experts-say/2217892/) from having adequate supplies of masks themselves. 
 
+#### When to Self-Isolate
+It is recommended to self-isolate for fourteen days (if possible) if you believe you have been directly exposed to coronavirus. The CDC [currently](https://www.northwestern.edu/coronavirus-covid-19-updates/self-isolation/) recommends self-isolation if you are returning from any country under a CDC Warning Level 3, if you have had direct contact with someone who has tested positive for coronavirus, or if you have had direct contact with someone under care for suspected exposure to coronavirus. If you have not had direct contact (e.g. you were at a conference where someone tested positive, but you never interacted with that person), it is not necessary to self-isolate.
+
+If you do choose to self-isolate, it is important to follow proper social distancing and practice self-monitoring as well. Limit contact as much as possible (including with other people living in your residence), and avoid sharing household items if possible. It is also important to keep your surroundings clean, especially those shared with others. Finally, it is [recommended](https://www.dhhs.nh.gov/dphs/cdcs/documents/self-quarantine-covid.pdf) to take (and record) your temperature with a thermometer twice a day and watch for signs of a dry cough or difficulty breathing. 
+
 ## Caring for Sick Family/Friends
 1. Try to stay in a separate room from them if possible - have them self-quarantine to the best of their ability. Encourage them to stay in their room/in the house. If they need medical care, make sure to call their doctor/hospital ahead so they can plan to limit the potential spread. 
 2. Good airflow in their room is important! 
