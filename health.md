@@ -50,6 +50,9 @@ Finally, whether you choose to buy a mask or not, please do not panic buy large 
 
 ## Keeping Your Home Sanitary
 
+## Yes, this is serious
+![statistics on COVID-19](https://cdn.vox-cdn.com/thumbor/FbCTVzCpn6-XmSq2j2rwJ-FxhOM=/0x0:1941x1941/1320x0/filters:focal(0x0:1941x1941):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19816388/flu_covid_comparison_1_high_res.jpg)
+
 ## Stopping the Spread
 ![Flatten the curve](https://static01.nyt.com/images/2020/03/11/science/11SCI-VIRUS-CURVE1/11SCI-VIRUS-TRACKER1-jumbo.jpg?quality=90&auto=webp)
 
