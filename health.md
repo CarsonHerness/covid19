@@ -52,9 +52,6 @@ If you do choose to self-isolate, it is important to follow proper social distan
 4. Don't share items such as linens, utensils, etc. with the person who is sick! 
 5. If you are caring for someone who lives far away from you, compile their list of emergency contacts (including their doctor/public health department). Help them prepare ahead by having them stock up on the prescriptions they have, fever/anti-inflammatories (particularly acetaminophen), and non-perishable food, and fluids (water and liquids with electrolytes are great)! Check-in on them regularly. 
 
-
-## Keeping Your Home Sanitary
-
 ## Yes, this is serious
 ![statistics on COVID-19](https://cdn.vox-cdn.com/thumbor/FbCTVzCpn6-XmSq2j2rwJ-FxhOM=/0x0:1941x1941/1320x0/filters:focal(0x0:1941x1941):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19816388/flu_covid_comparison_1_high_res.jpg)
 
