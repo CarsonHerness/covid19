@@ -4,7 +4,7 @@ title: Health
 permalink: /health/
 ---
 
-Written by Andy Liu and Gabby Teodoro
+Written by Andy Liu, with contributions from Gabby Teodoro.
 
 ## Protective Measures Against Coronavirus
 Regardless of what situation you are currently in, the World Health Organization and Centers for Disease Control and Prevention recommend some basic protective measures in order to mitigate the spread of coronavirus in your community:
