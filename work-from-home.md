@@ -11,12 +11,19 @@ How do you work and study from home, when many of the learning mechanisms we've 
 This section focuses on doing work and school from home, so if you're looking for other online learning opportunities, check out [this page]({{ site.baseurl }}{% link education.md %}). 
 
 [Create a schedule](#schedule)
+
 [Create physical and mental boundaries](#boundaries)
+
 [Task management](#task)
+
 [Time management](#time)
+
 [Help yourself focus](#focus)
+
 [Take care of your physical and mental health](#health)
+
 [Online instruction resources](#resources)
+
 [Sources](#sources)
 
 <a name="schedule"></a>
@@ -32,14 +39,14 @@ While stuck at home for days on end, it’s easy for the hours, days, and weeks 
 | 8:30-9:30 AM    | Shower, coffee, go through emails/messages  |
 | 9:30-11 AM      | Work on Algorithms homework                 |
 | 11-11:30 AM     | Computer Systems office hours               |
-| 11:30 AM - 1 PM | Lunch/break while Zooming friends           |
+| 11:30 AM-1 PM   | Lunch/break while Zooming friends           |
 | 1-2 PM          | Class project meeting                       |
 | 2-3 PM          | Research group meeting                      |             
 | 3-4 PM          | Work on Computer Music homework             |
 | 4-4:30 PM       | Break                                       |
 | 4:30-6 PM       | Economics class                             |
 | 6-7:30 PM       | Dinner with family                          |
-| 7:30 PM-9 PM    | Homework time                               |
+| 7:30-9 PM       | Homework time                               |
 | 9-11 PM         | Free time/self care                         |
 
 Your schedule doesn’t need to be this fixed/detailed, or it can be more if you want it! The important thing is to create some kind of schedule to follow. Write it down somewhere (publicly in your home or privately), and/or put it into a digital calendar such as Google Calendar.
