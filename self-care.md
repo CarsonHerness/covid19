@@ -8,6 +8,18 @@ Written by Emelin Flores
 ## The Most Important Aspect of Quarantine: You 
 Whether you are enjoying the time at home or you are starting to feel anxious, implementing a self-care list or calendar to give yourself and your mind some rest could be beneficial for your mental wellbeing. By incorporating self-care activities into each day now, you will likely set yourself up for a healthy future indoors.  
 
+[Start a Routine](#routine)
+
+[Work](#work)
+
+[Exercise](#exercise)
+
+[Diet](#diet)
+
+[Mental Health](#mental)
+
+<a name="routine"></a>
+
 ## Start a Routine
 First and foremost, set up a daily routine similar to your normal routine. A routine can help you stay healthy (and sane) while you're stuck at home. By maintaining a healthy routine — whether that’s a workout, a healthy meal or making time to relax and reset — can provide a sense of control during a time of uncertainty. This is a perfect moment to rebrand yourself and commit to a healthier lifestyle. 
 
@@ -43,10 +55,14 @@ Here are some online calendars or tools you can use to start building your sched
 * [Forest](https://www.forestapp.cc/)
 * [iPhone Hacks for Productivity](https://dailyburn.com/life/tech/iphone-hacks-boost-productivity-stat/)
 
+<a name="work"></a>
+
 ## Work
 Set goals. Make a list of things that need to be tackeld today, this week, and this month. Having a consistent schedule and being strict about it is useful in creating outlines around your time so that you can keep things balanced for both work and play.  
 
 Follow the [S.M.A.R.T.](https://en.wikipedia.org/wiki/SMART_criteria) goal approach: Make sure your to-do list for the day includes tasks that are specific, measurable, achievable, realistic and time-bound. Use Francesco Cirillo’s [Pomodoro productivity technique](https://francescocirillo.com/pages/pomodoro-technique) as an effective way to tackle a goal, or even longer projects, by helping you stay focused for 25-minute intervals with 5-minute breaks in between. Tackle one task within the 25 minutes? Move on to the next. The [TomatoTimer](https://tomato-timer.com/) web application is a simple timer that can help you get started and stay focused.
+
+<a name="exercise"></a>
 
 ## Exercise 
 If you're not someone who frequently works out or has wanted to start working out but have found commiting to it difficult. Here is some advice from Dani Johnson, a physical therapist at the [Mayo Clinic Healthy Living Program](https://healthyliving.mayoclinic.org/), she encourages people who are staying home to get creative. “Every little bit of movement counts,” she said. That's right, you don't need fancy equipment or a lot of time, you just need to find some time to get your heartrate jumping. 
@@ -68,6 +84,8 @@ Stretch it out for at least 30 seconds. Get out and walk (if you're allowed to),
 * A [guide](https://www.nytimes.com/guides/well/how-to-meditate) to meditation, if you just need grounding.
     * [Headspace](https://www.headspace.com/), an app dedicated to mindfulness is [offering free support](https://www.headspace.com/covid-19) with meditation, anxiety-reducing exercises, and workouts through this time. 
     * [Waking Up](https://wakingup.com/), a mediation app is offering free daily meditation course to help you "make fundamental discoveries in the laboratory of your own mind", not just reduce stress or feel better in the moment.
+
+<a name="diet"></a>
 
 ## Diet
 
@@ -105,6 +123,8 @@ Other tips to keep in mind:
     * [Omega-3 fatty acids](https://www.healthline.com/nutrition/omega-3-guide) reduce inflammation, maintain heart health and promote brain function
 
 If you're worried about finding food during COVID-19, please reach out to your community or schools to see what kinds of options they have in terms of providing food for the community. 
+
+<a name="mental"></a>
 
 ## Mental Health
 The outbreak of coronavirus disease 2019 (COVID-19) may be stressful for people. Fear and anxiety about a disease can be overwhelming and cause strong emotions in adults and children. Learning to cope with stress will make you, the people you care about, and your community stronger.
