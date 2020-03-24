@@ -14,19 +14,21 @@ This section focuses on doing work and school from home, so if you're looking fo
 While stuck at home for days on end, it’s easy for the hours, days, and weeks to blend together. Many of the structures on college campuses that create a schedule are no longer part of your daily life, such as the dining hall hours, fixed class meeting times, and fixed tutoring office hours. To mimic this structure, create a schedule that includes everything from meal and homework time to breaks and social time.
 
 ### Example schedule
-8-8:30 AM       | Go for a run (safe social distancing!)
-8:30-9:30 AM    | Shower, coffee, go through emails/messages
-9:30-11 AM      | Work on Algorithms homework
-11-11:30 AM     | Computer Systems office hours
-11:30 AM - 1 PM | Lunch/break while Zooming friends
-1-2 PM          | Class project meeting
-2-3 PM          | Research group meeting
-3-4 PM          | Work on Computer Music homework
-4-4:30 PM       | Break
-4:30-6 PM       | Economics class
-6-7:30 PM       | Dinner with family
-7:30 PM-9 PM    | Homework time
-9-11 PM         | Free time/self care
+| Time            | Task                                        |
+| --------------- | --------------------------------------------|
+| 8-8:30 AM       | Go for a run (safe social distancing!)      |
+| 8:30-9:30 AM    | Shower, coffee, go through emails/messages  |
+| 9:30-11 AM      | Work on Algorithms homework                 |
+| 11-11:30 AM     | Computer Systems office hours               |
+| 11:30 AM - 1 PM | Lunch/break while Zooming friends           |
+| 1-2 PM          | Class project meeting                       |
+| 2-3 PM          | Research group meeting                      |             
+| 3-4 PM          | Work on Computer Music homework             |
+| 4-4:30 PM       | Break                                       |
+| 4:30-6 PM       | Economics class                             |
+| 6-7:30 PM       | Dinner with family                          |
+| 7:30 PM-9 PM    | Homework time                               |
+| 9-11 PM         | Free time/self care                         |
 
 Your schedule doesn’t need to be this fixed/detailed, or it can be more if you want it! The important thing is to create some kind of schedule to follow. Write it down somewhere (publicly in your home or privately), and/or put it into a digital calendar such as Google Calendar.
 
