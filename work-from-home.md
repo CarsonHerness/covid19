@@ -14,6 +14,7 @@ This section focuses on doing work and school from home, so if you're looking fo
 While stuck at home for days on end, it’s easy for the hours, days, and weeks to blend together. Many of the structures on college campuses that create a schedule are no longer part of your daily life, such as the dining hall hours, fixed class meeting times, and fixed tutoring office hours. To mimic this structure, create a schedule that includes everything from meal and homework time to breaks and social time.
 
 ### Example schedule
+
 | Time            | Task                                        |
 | --------------- | --------------------------------------------|
 | 8-8:30 AM       | Go for a run (safe social distancing!)      |
