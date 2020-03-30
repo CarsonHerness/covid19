@@ -3,8 +3,9 @@ layout: page
 title: Work from Home
 permalink: /work-from-home/
 ---
-
+<div class="author">
 Written by Carson Herness, with contributions from Mavis Stone
+</div>
 
 How do you work and study from home, when many of the learning mechanisms we've developed at school depend on learning in person with professors and peers?
 

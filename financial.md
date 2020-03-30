@@ -4,6 +4,10 @@ title: Financial Advice
 permalink: /financial/
 ---
 
+<div class="construction">
+This page is under construction! Want to contribute? Send an email [here](mailto:aherness@g.hmc.edu).
+</div>
+
 ## Financial Aid
 [FAFSA Announcement](https://ifap.ed.gov/electronic-announcements/030520Guidance4interruptionsrelated2CoronavirusCOVID19)
 

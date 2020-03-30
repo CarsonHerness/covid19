@@ -3,7 +3,9 @@ layout: page
 title: Self Care
 permalink: /self-care/
 ---
+<div class="author">
 Written by Emelin Flores
+</div>
 
 ## The Most Important Aspect of Quarantine: You 
 Whether you are enjoying the time at home or you are starting to feel anxious, implementing a self-care list or calendar to give yourself and your mind some rest could be beneficial for your mental wellbeing. By incorporating self-care activities into each day now, you will likely set yourself up for a healthy future indoors.  
@@ -34,6 +36,7 @@ Don’t take this advice from me, the [BBC](https://www.bbc.com/worklife/article
     * Don't just grab your laptop and do work from your bed. Set up a desk, your kitchen counter, or your dresser as your new workspace. Only do work from that space. Create boundaries from where you sleep to where you work. This can help separate you from your work. 
 * Get Out or Exercise 
     * There are plenty of resources online from Youtube videos to dedicated workout websites to help you find your routine. Find something that works for you indoors to stay active. If you don't have weights or workout equipment, using your own body is enough for a workout. Below I will explain more about how you can stay active. Also, even though some states (like mine in NJ) are on lockdown, you can still sit on your porch or walk outside for a couple minutes (while still practicing social distancing!).
+    * Check out this [6 week bodyweight workout program](https://thehybridathlete.com/bodyweight-training-plan/).
 * Communicate Effectively 
     * Make sure that everyone in your home recognizes your boundaries and communicate to them what you're doing. 
 * Take breaks & Make Time for Mindfulness
