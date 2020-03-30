@@ -5,7 +5,7 @@ permalink: /financial/
 ---
 
 <div class="construction">
-This page is under construction! Want to contribute? Send an email [here](mailto:aherness@g.hmc.edu).
+This page is under construction! Want to contribute? Send an email <a href="mailto:aherness@g.hmc.edu">here</a>.
 </div>
 
 ## Financial Aid
